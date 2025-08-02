@@ -163,7 +163,7 @@ footer div{
     .container-1{
         height: 600px;
         width: 100%;
-        background-image: url(/source/img-1.png);
+        background-image: url(./source/img-1.png);
         background-position: center;
         background-repeat: no-repeat;
         overflow-x: hidden;
@@ -264,4 +264,5 @@ footer div{
         margin: 20px 5%;
         float: left;
     }
+
 }
